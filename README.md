@@ -1,1 +1,1 @@
-# Product_recommender
+- To Develop a recommendation system that suggests similar products based on input images.
